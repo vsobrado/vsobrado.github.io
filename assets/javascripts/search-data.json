@@ -2,30 +2,30 @@ var store = [{
         "title": "I guess it's fitting to visit Victor, Colorado, Right?",
         "excerpt":"","categories": ["Travel","Photography"],
         "tags": ["Colorado","mines","mining","Victor"],
-        "url": "https://victorsobrado.com/travel/photography/2018/03/31/i-guess-its-fitting-to-visit-victor-colorado-right.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/travel/photography/2018/03/31/i-guess-its-fitting-to-visit-victor-colorado-right.html"
       },{
         "title": "Voicemail MongoDB query for OpenUC 16.04+ Mailbox report",
         "excerpt":"Once upon a time, the best way to check on the number of stored voicemails was by using the built in Java tool.&lt;/p&gt; As of version 16.04 which comes with an upgraded version of MongoDB, we can simply run this query instead of checking individual mailboxes with a bash script....","categories": ["Technology"],
         "tags": ["MongoDB","query","OpenUC","voicemail"],
-        "url": "https://victorsobrado.com/technology/2018/08/29/easy-mongodb-query-for-openuc-16-04.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/technology/2018/08/29/easy-mongodb-query-for-openuc-16-04.html"
       },{
         "title": "Community Gardening",
         "excerpt":"R&amp;R in the Garden Earlier this season, we’ve decided to give a shot at gardening. Having only grown tomatoes and peppers on the east coast in containers, this was a relaxing and enjoyable way to have plenty of fresh vegetables. In particular, we’re going to have enough pickles to last...","categories": ["Food","Green","Lifestyle"],
         "tags": ["Colorado","vegetables","fruit","handsinthedirt","gardening"],
-        "url": "https://victorsobrado.com/food/green/lifestyle/2018/08/29/urban-farming.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/food/green/lifestyle/2018/08/29/urban-farming.html"
       },{
         "title": "What exactly is 'fragrance'?",
         "excerpt":"Source: https://twitter.com/StinkMovie/status/1061686862052515841 Netflix’s latest documentary, Stink!, particularly caught my attention with the conversation of fragrance and Endocrine Disrupters- many of which do not have to be on the product label. Surely, everyone that has spent too much time under the shower has taken the time to read shampoo bottle ingredients...","categories": ["Green","Lifestyle","Health"],
         "tags": ["stink","fragrance","Netflix","documentary"],
-        "url": "https://victorsobrado.com/green/lifestyle/health/2018/11/12/what-exactly-is-a-fragrance.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/green/lifestyle/health/2018/11/12/what-exactly-is-a-fragrance.html"
       },{
         "title": "Paint Mines",
         "excerpt":"Located near Calhan, about thirty-five miles northeast of Colorado Springs, the Calhan Paint Mines are an area of clay deposits that have seen extensive prehistoric habitation and historic quarrying of the clay for pottery and bricks. Humans have used the paint mines area for at least 10,000 years, as indicated...","categories": ["Travel","Lifestyle","Photography"],
         "tags": ["Colorado","paint","mines"],
-        "url": "https://victorsobrado.com/travel/lifestyle/photography/2018/11/13/Paint-Mines.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/travel/lifestyle/photography/2018/11/13/Paint-Mines.html"
       },{
         "title": "2018 Holiday Wishlist",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "https://victorsobrado.com/2018/11/16/1018-holiday-wishlist.html"
+        "url": "https://victorsobrado.com/https://victorsobrado.com/2018/11/16/1018-holiday-wishlist.html"
       },]
