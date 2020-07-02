@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"Happy New Year! 🎆 ","categories": [],
         "tags": [],
         "url": "https://victorsobrado.com/2019/01/01/Happy-New-Year.html"
+      },{
+        "title": "Canyon Country",
+        "excerpt":"Canyon Country Road Trip ","categories": ["Travel","Lifestyle","Photography"],
+        "tags": ["Colorado","Utah","Canyons"],
+        "url": "https://victorsobrado.com/travel/lifestyle/photography/2020/07/02/Canyon-Country.html"
       },]
