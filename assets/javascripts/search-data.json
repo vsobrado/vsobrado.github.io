@@ -29,8 +29,8 @@ var store = [{
         "tags": [],
         "url": "https://victorsobrado.com/2019/01/01/Happy-New-Year.html"
       },{
-        "title": "Canyon Country",
-        "excerpt":"Canyon Country Road Trip Colorado National Monument Sign depicting the efforts made to build rim rock drive, Colorado National Monument Colorado National Monument Balanced Rock, Colorado National Monument Drainage Cave constructed by the Civilian Conservation Corps between 1933-1942, Colorado National Monument Colorado National Monument Entrance to Drainage Cave constructed by...","categories": ["Travel","Lifestyle","Photography"],
+        "title": "Canyon Country Road Trip",
+        "excerpt":"Colorado National Monument Sign depicting the efforts made to build rim rock drive, Colorado National Monument Colorado National Monument Balanced Rock, Colorado National Monument Drainage Cave constructed by the Civilian Conservation Corps between 1933-1942, Colorado National Monument Colorado National Monument Entrance to Drainage Cave constructed by the Civilian Conservation Corps...","categories": ["Travel","Lifestyle","Photography"],
         "tags": ["Colorado","Utah","Canyons"],
         "url": "https://victorsobrado.com/travel/lifestyle/photography/2020/07/02/Canyon-Country.html"
       },]
